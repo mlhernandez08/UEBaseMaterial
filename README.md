@@ -17,6 +17,10 @@ The material is intended to reflect real-world production workflows, where artis
 - Contrast
 - Saturation
 - Tint
+### Position Controls
+- UV Tiling
+- UV Offset
+- Rotation
 ## Examples
 > ![Base Material Screenshot](images/BaseMaterial.png)
 > ![Base Material Instance](images/BaseMaterialInstance.png)
