@@ -18,8 +18,8 @@ The material is intended to reflect real-world production workflows, where artis
 - Saturation
 - Tint
 ### Position Controls
-- UV Tiling
-- UV Offset
+- Texture Tiling
+- Texture Offset
 - Rotation
 ## Examples
 > ![Base Material Screenshot](images/BaseMaterial.png)
